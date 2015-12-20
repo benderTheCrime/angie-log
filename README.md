@@ -1,7 +1,7 @@
 ![emblem](https://rawgit.com/angie-framework/angie-log/master/svg/angie.svg "emblem")
 
 ## Angie Log
-An extremely lightweight logging utility for NodeJS built in ES6
+An extremely lightweight logging utility for NodeJS & the Angie Framework
 
 [![npm version](https://badge.fury.io/js/angie-log.svg)](http://badge.fury.io/js/angie-log "npm version")
 ![iojs support](https://img.shields.io/badge/iojs-1.7.1+-brightgreen.svg "iojs support")
