@@ -1,6 +1,8 @@
 ![emblem](https://rawgit.com/angie-framework/angie-log/master/svg/angie.svg "emblem")
 
 ## Angie Log
+
+[![Join the chat at https://gitter.im/benderTheCrime/angie-log](https://badges.gitter.im/benderTheCrime/angie-log.svg)](https://gitter.im/benderTheCrime/angie-log?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 An extremely lightweight logging utility for NodeJS & the Angie Framework
 
 [![npm version](https://badge.fury.io/js/angie-log.svg)](http://badge.fury.io/js/angie-log "npm version")
